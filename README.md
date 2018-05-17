@@ -11,6 +11,10 @@
 
 
 ## Install
-> Clone down this repository and run:
+> Run:
+
+    pip install read-and-close
+
+> OR clone down this repository and run:
 
     python setup.py install
